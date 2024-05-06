@@ -2,7 +2,7 @@
 
 Oii, eu sou o Philippe Izidório, analista de bi apaixonado em transformar dados em insights relevantes para negócios.
 
-### 💻 Data Analysis Tech Stak
+### 💻 Tech Stak
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Phil-Py" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
