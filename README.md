@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=275edc&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo(a)!😃;Welcome!😉;Bienvenido(a)!😄)](https://git.io/typing-svg)
 
-# Hi there! 👋
+## Hi there! 👋
 
 Eu sou o Philippe Izidório! Apaixonado por transformar dados em informações relevantes.
 Atuei como Analista de Business Intelligence na área administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
