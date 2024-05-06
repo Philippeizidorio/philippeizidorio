@@ -1,17 +1,20 @@
-### Hi there! 👋
+## Hi there! 👋
 
-Oii, eu sou o Philippe Izidório, analista de bi apaixonado em transformar dados em insights relevantes para negócios.
+Eu sou o Philippe Izidório, Analista de BI apaixonado em transformar dados em insights relevantes para negócios.
 
 ### 💻 Tech Stak
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Phil-Py" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img align="center" alt="Phil-mg" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">          
-<img align="center" alt="Phil-SQL" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+<div style="display: inline_block"><br>          
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>         
 
 ### 🌐 Let's Connect 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/philippeizidorio)
+
 
 
 
