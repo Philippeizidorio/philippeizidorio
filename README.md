@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
-Eu sou o Philippe Izidório, Analista de BI apaixonado em transformar dados em insights relevantes para negócios.
+Eu sou o Philippe Izidório! Apaixonado por transformar dados em informações relevantes.
+Atuei como Analista de Business Intelligence na área administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
 
 ### 💻 Tech Stak
 
@@ -9,6 +10,7 @@ Eu sou o Philippe Izidório, Analista de BI apaixonado em transformar dados em i
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>         
 
