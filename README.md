@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**Philippeizidorio/philippeizidorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oii, eu sou o Philippe Izidório, analista de bi apaixonado em transformar dados em insights relevantes para negócios.
 
-Here are some ideas to get you started:
+### 💻 Data Analysis Tech Stak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" alt="Phil-Py" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="Phil-mg" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">          
+<img align="center" alt="Phil-SQL" height-"38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+</div>         
+
+### 🌐 Let's Connect 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/philippeizidorio)
+
+
+
+### 📊 Github Stats
+
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=philippeizidorio&show_icons=true&theme=holi"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippeizidorio&layout=compact&theme=holi"/>
+</div>
