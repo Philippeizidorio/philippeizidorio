@@ -1,9 +1,11 @@
-## Hi there! 👋😄
+<h1 align="center">Olá! 👋😄 Prazer, Sou o Philippe! </h1>
+<h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
-Eu sou o Philippe Izidório! Apaixonado por transformar dados em informações relevantes.
+<h2 align="left">🗨 Sobre mim:</h2>
+Sou aluno da formação em Ciência De Dados pela Escola DNC e Apaixonado por transformar dados em informações relevantes.
 Atuei como Analista de Business Intelligence na área administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
 
-### 💻 Tech Stack
+<h2 align="left">💻 Tech Stack</h2>
 <div <br>          
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -14,13 +16,13 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff">
 </div>         
 
-### 🌐 Let's Connect 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippeizidorio)
+<h2 align="left">🌐 Let's Connect </h2>
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippeizidorio)">
+</div> 
 
 
 
-
-### 📊 Github Stats
+<h2 align="left">📊 Github Stats</h2> 
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=philippeizidorio&show_icons=true&theme=holi"/>
