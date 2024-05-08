@@ -6,7 +6,7 @@ Sou aluno da formação em Ciência De Dados pela Escola DNC e Apaixonado por tr
 Atuei como Analista de Business Intelligence na área administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
 
 ###
-👨🏻‍💻 Tenho experiência em analisar dados complexos, criar visualizações impactantes e comunicar descobertas de forma clara e acessível.
+👨🏻‍💻 Tenho experiência em analises complexas de dados, criar visualizações impactantes e comunicar descobertas de forma clara e acessível.
 
 🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
