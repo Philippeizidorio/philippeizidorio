@@ -29,7 +29,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 
 ## Meus projetos na área de Business Intelligence e Ciências de Dados 📈
 
-### Dashboards - Power BI:
+### Dashboards - Power BI/Tableau/Metabase:
 
  <left>
 <img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="600"/>
