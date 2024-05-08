@@ -37,7 +37,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 
 :1st_place_medal: [Relatório de Análise Trimestral de Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
 
-:2nd_place_medal: [Dashboard de Análise da aquisição de clientes(Metabase) - Edtech](https://github.com/seunome/enderecoprojeto)
+:2nd_place_medal: [Dashboard de Análise da aquisição de clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
 ### SQL:
 
