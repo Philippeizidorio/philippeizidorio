@@ -27,6 +27,47 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <a href = "mailto:euphilippeizidorio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?l=pt_BR&phone=557998207392" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
+## Meus projetos na área de Business Intelligence e Ciências de Dados 📈🏆
+
+### Dashboards - Power BI:
+
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="600"/>
+</left>
+
+:1st_place_medal: [Relatório de Análise Trimestral de Campanhas - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL/blob/main/README.md)
+
+:2nd_place_medal: [Relatório de Análise de Vendas de uma rede de supermercados](https://github.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados#readme)
+
+### SQL:
+
+<left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/sql_1.png" width="300"/>
+</left>
+
+:1st_place_medal: [Construção e Análise em um Banco de Dados do Zero - Escola de Pilates](https://github.com/Campos-Silva/projeto_escola_de_pilates_sql)
+
+:2nd_place_medal: [Checando movimentações bancárias usando SQL](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/tree/main#readme)
+
+:3rd_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
+
+:3rd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
+
+### Python:
+
+<left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/python.png" width="400"/>
+</left>
+
+:1st_place_medal: [Precificacao de Veículos Usados - Introdução](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
+
+:2nd_place_medal: [Precificacao de Veículos Usados - Parte A: Importação e Pré-Processamento de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
+
+:3rd_place_medal: [Precificacao de Veículos Usados - Parte B: Exploração de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
+
+:3rd_place_medal: [Precificacao de Veículos Usados - Parte C: Construção e avaliação de Modelos de Machine Learning](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+
+
 <h2 align="left">📊 Github Stats</h2> 
 
 <div>
