@@ -5,6 +5,11 @@
 Sou aluno da formação em Ciência De Dados pela Escola DNC e Apaixonado por transformar dados em informações relevantes.
 Atuei como Analista de Business Intelligence na área administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
 
+###
+👨🏻‍💻 Tenho experiência no uso de recursos e linguagens de programação com foco em análise de dados como: SQL Server, Power BI, Tableau, Pentaho, Data Warehouse, Excel, Power Query, DAX, ETL, Linguagem M, Pacote Office.
+
+🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
+
 <h2 align="left">💻 Tech Stack</h2>
 <div <br>          
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
