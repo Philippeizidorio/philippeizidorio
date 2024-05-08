@@ -35,7 +35,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="600"/>
 </left>
 
-:1st_place_medal: [Relatório de Análise Trimestral de Campanhas - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL/blob/main/README.md)
+:1st_place_medal: [Relatório de Análise Trimestral de Campanhas - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
 
 :2nd_place_medal: [Relatório de Análise de Vendas de uma rede de supermercados](https://github.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados#readme)
 
