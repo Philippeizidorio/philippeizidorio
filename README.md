@@ -32,7 +32,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 ### Dashboards - Power BI | Tableau | Metabase:
 
  <left>
-<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="600"/>
+<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/5117127f-4782-4f97-8fee-e3a779dc4bb4" width="600"/>
 </left>
 
 :1st_place_medal: [Relatório de Análise Trimestral de Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
@@ -42,7 +42,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 ### SQL:
 
 <left>
-<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/sql_1.png" width="300"/>
+<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/0fcec9ff-d274-496b-84ac-80a8cab37c14" width="300"/>
 </left>
 
 :1st_place_medal: [Construção de um Banco de Dados do Zero - Biblioteca](https://github.com/namehere/projetourl)
@@ -52,7 +52,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 ### Python:
 
 <left>
-<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/python.png" width="400"/>
+<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/3a0be200-3882-4547-ab9c-54e6897c36c4" width="400"/>
 </left>
 
 :1st_place_medal: [Em Breve!](https://github.com/namehere/projetourlhere)
