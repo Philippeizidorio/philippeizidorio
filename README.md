@@ -59,13 +59,9 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/python.png" width="400"/>
 </left>
 
-:1st_place_medal: [Precificacao de Veículos Usados - Introdução](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
+:1st_place_medal: [Em Breve!](https://github.com/namehere/projetourlhere)
 
-:2nd_place_medal: [Precificacao de Veículos Usados - Parte A: Importação e Pré-Processamento de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
-
-:3rd_place_medal: [Precificacao de Veículos Usados - Parte B: Exploração de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
-
-:3rd_place_medal: [Precificacao de Veículos Usados - Parte C: Construção e avaliação de Modelos de Machine Learning](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+:2nd_place_medal: [Em Breve!](https://github.com/namehere/projetourlhere)
 
 
 <h2 align="left">📊 Github Stats</h2> 
