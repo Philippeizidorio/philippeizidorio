@@ -45,7 +45,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/sql_1.png" width="300"/>
 </left>
 
-:1st_place_medal: [Construção e Análise em um Banco de Dados do Zero - Biblioteca](https://github.com/namehere/projetourl)
+:1st_place_medal: [Construção de um Banco de Dados do Zero - Biblioteca](https://github.com/namehere/projetourl)
 
 :2nd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
 
