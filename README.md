@@ -29,7 +29,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 
 ## Meus projetos na área de Business Intelligence e Ciências de Dados 📈
 
-### Dashboards - Power BI | Tableau | Metabase:
+### Dashboards - Power BI | Metabase:
 
  <left>
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/5117127f-4782-4f97-8fee-e3a779dc4bb4" width="600"/>
