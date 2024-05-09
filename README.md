@@ -47,7 +47,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 
 :1st_place_medal: [Construção de um Banco de Dados do Zero - Biblioteca](https://github.com/namehere/projetourl)
 
-:2nd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
+:2nd_place_medal: [Explorando Dados Do Setor De Vendas De Um Ecommerce Usando SQL](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
 
 ### Python:
 
