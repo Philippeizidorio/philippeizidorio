@@ -35,9 +35,9 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/5117127f-4782-4f97-8fee-e3a779dc4bb4" width="600"/>
 </left>
 
-:1st_place_medal: [Relatório de Análise Trimestral de Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
+:1st_place_medal: [Relatório De Análise Trimestral De Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
 
-:2nd_place_medal: [Dashboard de Análise da Aquisição de Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
+:2nd_place_medal: [Dashboard De Análise Da Aquisição De Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
 ### SQL:
 
@@ -45,7 +45,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/0fcec9ff-d274-496b-84ac-80a8cab37c14" width="300"/>
 </left>
 
-:1st_place_medal: [Construção de um Banco de Dados do Zero No SQL Server - Biblioteca](https://github.com/namehere/projetourl)
+:1st_place_medal: [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/namehere/projetourl)
 
 :2nd_place_medal: [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
 
