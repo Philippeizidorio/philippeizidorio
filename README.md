@@ -45,7 +45,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/0fcec9ff-d274-496b-84ac-80a8cab37c14" width="300"/>
 </left>
 
-:1st_place_medal: [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/namehere/projetourl)
+:1st_place_medal: [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
 
 :2nd_place_medal: [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
 
