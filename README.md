@@ -36,9 +36,11 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/5117127f-4782-4f97-8fee-e3a779dc4bb4" width="600"/>
 </left>
 
-1️⃣ [Relatório De Análise Trimestral De Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
+###
 
-2️⃣ [Dashboard De Análise Da Aquisição De Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
+🥇 [Relatório De Análise Trimestral De Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
+
+🥈 [Dashboard De Análise Da Aquisição De Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
 ### SQL:
 
