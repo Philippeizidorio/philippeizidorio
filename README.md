@@ -48,11 +48,13 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/0fcec9ff-d274-496b-84ac-80a8cab37c14" width="300"/>
 </left>
 
-1️⃣ [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
+###
 
-2️⃣ [Criando um Data Warehouse no SQL Server utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
+🥇 [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
 
-3️⃣ [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
+🥈 [Criando um Data Warehouse no SQL Server utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
+
+🥉 [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
 
 
 ### Python:
@@ -61,10 +63,14 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/3a0be200-3882-4547-ab9c-54e6897c36c4" width="400"/>
 </left>
 
-1️⃣ [Em Breve!](https://github.com/namehere/projetourlhere)
+###
 
-2️⃣ [Em Breve!](https://github.com/namehere/projetourlhere)
+🥇 [Em Breve!](https://github.com/namehere/projetourlhere)
 
+🥈 [Em Breve!](https://github.com/namehere/projetourlhere)
+
+
+###
 
 <h2 align="left">📊 Github Stats</h2> 
 
