@@ -47,9 +47,10 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 
 1️⃣ [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
 
-2️⃣ [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
+2️⃣ [Criando um Data Warehouse no SQL Server utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
 
-3️⃣ [Criando um Data Warehouse no SQL Server utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
+3️⃣ [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
+
 
 ### Python:
 
