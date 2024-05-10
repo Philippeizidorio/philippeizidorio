@@ -6,7 +6,7 @@ Sou aluno da formação em Ciência De Dados pela Escola DNC e apaixonado por tr
 Atuei como Analista de Business Intelligence na área administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
 
 ###
-👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem SQL, Pacote Office, criação de Data Warehouses, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI, Tableu ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
+👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem SQL, Excel, criação de Data Warehouses, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI, Tableu ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
 
 🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
