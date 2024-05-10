@@ -19,6 +19,7 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff">
+<img src="https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola/assets/145637595/a2ff1f77-cccf-45f6-8ecc-5a9735f2e64c">
 </div>         
 
 <h2 align="left">🌐 Let's Connect </h2>
