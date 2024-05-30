@@ -65,9 +65,9 @@ Atuei como Analista de Business Intelligence na área administrativa por mais de
 
 ###
 
-🥇 [Em Breve!](https://github.com/namehere/projetourlhere)
+🥇 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
 
-🥈 [Em Breve!](https://github.com/namehere/projetourlhere)
+🥈 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
 
 
 ###
