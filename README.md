@@ -2,8 +2,7 @@
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-Sou aluno da formação em Ciência De Dados pela Escola DNC e apaixonado por transformar dados em informações relevantes.
-Atuei como Analista de Business Intelligence na área pedagógica-administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
+Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergipe, aluno da formação em Data Science pela Escola DNC e apaixonado por transformar dados em informações relevantes. Atuei como Analista de Business Intelligence na área pedagógica-administrativa por mais de 3 anos, com vivência prática na aplicação da inteligência de negócios de forma intersetorial fornecendo insights estratégicos com foco em resolução de problemas, otimização de processos, resultados e apoio na tomada de decisões. 
 
 ###
 👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem SQL, Excel, criação de Data Warehouses, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI, Tableau ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
