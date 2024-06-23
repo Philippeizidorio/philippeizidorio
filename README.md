@@ -40,9 +40,9 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Relatório De Análise Trimestral De Campanhas(PBI) - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
+🥇 [Aumentar O Número De Usuários Cadastrados - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
 
-🥈 [Dashboard De Análise Da Aquisição De Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
+🥈 [Análise Da Aquisição De Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
 ### SQL:
 
@@ -67,7 +67,7 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Realizando análise e criação de métricas utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
+🥇 [Análise De Resultados E Criação De Métricas Utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
 
 🥈 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
 
