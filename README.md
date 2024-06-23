@@ -49,7 +49,7 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Construção De um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
+🥇 [Construção de um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
 
 🥈 [Criando um Data Warehouse no SQL Server utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
 
@@ -64,7 +64,7 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
+🥇 [Analisando e criando métricas utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
 
 🥈 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
 
