@@ -67,7 +67,7 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Analisando e criando métricas utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
+🥇 [Realizando análise e criação de métricas utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
 
 🥈 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
 
