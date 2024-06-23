@@ -77,6 +77,6 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 <h2 align="left">📊 Github Stats</h2> 
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=philippeizidorio&show_icons=true&theme=holi"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippeizidorio&layout=compact&theme=holi"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=philippeizidorio&show_icons=true&theme=holi"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippeizidorio&layout=compact&theme=holi"/>
 </div>
