@@ -40,7 +40,7 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Aumentar O Número De Usuários Cadastrados - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
+🥇 [Impulsionar O Número De Usuários Cadastrados - Agência De Marketing Digital](https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL)
 
 🥈 [Análise Da Aquisição De Clientes(Metabase) - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
@@ -52,9 +52,9 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 ###
 
-🥇 [Construção de um Banco de Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
+🥇 [Construção De Um Banco De Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
 
-🥈 [Criando um Data Warehouse no SQL Server utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
+🥈 [Criando Um Data Warehouse No SQL Server Utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
 
 🥉 [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
 
