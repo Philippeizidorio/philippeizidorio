@@ -70,7 +70,7 @@ Sou Acadêmico em Ciência De Dados pelo Centro Universitário Estácio de Sergi
 
 🥇 [Análise De Resultados E Criação De Métricas Utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
 
-🥈 [Estudando - Projeto Logo Em Breve!](https://github.com/namehere/projetourlhere)
+🥈 [Prevendo Preços De Apartamentos Com Machine Learning - Imobiliária](https://github.com/Philippeizidorio/MLPredicaodepreco)
 
 
 ###
