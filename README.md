@@ -41,9 +41,9 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 
 ###
 
-🥇 [Dashboard Para Gerenciamento Financeiro - Hotel](https://github.com/Philippeizidorio/Dashfinanceirohotel)
+🥇 [Dashboard Para Gerenciamento Financeiro No Power BI - Hotel](https://github.com/Philippeizidorio/Dashfinanceirohotel)
 
-🥈 [Análise Da Aquisição De Clientes - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
+🥈 [Análise Da Aquisição De Clientes No Metabase - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
 ### SQL:
 
