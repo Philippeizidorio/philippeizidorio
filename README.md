@@ -33,6 +33,18 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 
 ## Meus projetos na área de Business Intelligence e Ciências de Dados 📈
 
+### Python:
+
+<left>
+<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/3a0be200-3882-4547-ab9c-54e6897c36c4" width="400"/>
+</left>
+
+###
+
+🥇 [Análise De Resultados E Criação De Métricas Utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
+
+🥈 [Prevendo Preços De Apartamentos Com Machine Learning - Imobiliária](https://github.com/Philippeizidorio/MLPredicaodepreco)
+
 ### Dashboards - Power BI | Metabase:
 
  <left>
@@ -58,20 +70,6 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 🥈 [Criando Um Data Warehouse No SQL Server Utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
 
 🥉 [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
-
-
-### Python:
-
-<left>
-<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/3a0be200-3882-4547-ab9c-54e6897c36c4" width="400"/>
-</left>
-
-###
-
-🥇 [Análise De Resultados E Criação De Métricas Utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
-
-🥈 [Prevendo Preços De Apartamentos Com Machine Learning - Imobiliária](https://github.com/Philippeizidorio/MLPredicaodepreco)
-
 
 ###
 
