@@ -45,7 +45,7 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 
 🥈 [Prevendo Preços De Apartamentos Com Machine Learning - Imobiliária](https://github.com/Philippeizidorio/MLPredicaodepreco)
 
-🥉 [Prevendo Vendas  Em Campanhas De Publicidade Online- Negócio Local](https://github.com/link)
+🥉 [Prevendo Vendas Em Campanhas De Publicidade Online - Negócio Local](https://github.com/link)
 
 ### Dashboards - Power BI | Metabase:
 
