@@ -2,7 +2,7 @@
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergipe(Estácio),com vivência prática na transformação de dados em inteligência de negócios dentro das áreas pedagógica e administrativa por 3 anos, além de ter trabalhado no desenvolvimento de projetos de BI nos setores de vendas e marketing.
+🧑🏻‍🎓 Sou um graduando em Ciência de dados apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
 👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem Python, SQL, Excel, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
