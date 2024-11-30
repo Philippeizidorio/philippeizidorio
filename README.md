@@ -2,7 +2,7 @@
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Sou um graduando em Ciência de dados apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
+🧑🏻‍🎓 Sou graduando em Ciência De Dados, faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
 👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem Python, SQL, Excel, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
