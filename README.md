@@ -41,11 +41,11 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 
 ###
 
-🥇 [Análise De Resultados E Criação De Métricas Utilizando Python - Loja Varejista](https://github.com/Philippeizidorio/AnaliseVarejo)
+🥇 [Análise De Resultados E Criação De Métricas Utilizando Python](https://github.com/Philippeizidorio/AnaliseVarejo)
 
-🥈 [Prevendo Preços De Apartamentos Com Machine Learning - Imobiliária](https://github.com/Philippeizidorio/MLPredicaodepreco)
+🥈 [Prevendo Preços De Apartamentos Com Machine Learning](https://github.com/Philippeizidorio/MLPredicaodepreco)
 
-🥉 [Prevendo Vendas Em Campanhas De Publicidade Online - Negócio Local](https://github.com/Philippeizidorio/PredicaoDeVendasPub)
+🥉 [Prevendo Vendas Em Campanhas De Publicidade Online](https://github.com/Philippeizidorio/PredicaoDeVendasPub)
 
 ### Dashboards - Power BI | Metabase:
 
@@ -55,9 +55,9 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 
 ###
 
-🥇 [Dashboard Para Gerenciamento Financeiro No Power BI - Hotel](https://github.com/Philippeizidorio/Dashfinanceirohotel)
+🥇 [Dashboard Para Gerenciamento Financeiro No Power BI](https://github.com/Philippeizidorio/Dashfinanceirohotel)
 
-🥈 [Análise Da Aquisição De Clientes No Metabase - Edtech](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
+🥈 [Análise Da Aquisição De Clientes No Metabase](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
 
 ### SQL:
 
@@ -67,11 +67,11 @@ Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergip
 
 ###
 
-🥇 [Construção De Um Banco De Dados Do Zero No SQL Server - Biblioteca](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
+🥇 [Construção De Um Banco De Dados Do Zero No SQL Server](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
 
-🥈 [Criando Um Data Warehouse No SQL Server Utilizando Pentaho - Empresa Vinícola](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
+🥈 [Criando Um Data Warehouse No SQL Server Utilizando Pentaho](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
 
-🥉 [Explorando Dados Do Setor De Vendas Usando SQL - Ecommerce](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
+🥉 [Explorando Dados Do Setor De Vendas Usando SQL](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
 
 ###
 
