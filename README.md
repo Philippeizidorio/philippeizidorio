@@ -5,7 +5,7 @@
 Sou graduando em Ciência De Dados pelo Centro Universitário Estácio de Sergipe(Estácio),com vivência prática na transformação de dados em inteligência de negócios dentro das áreas pedagógica e administrativa por 3 anos, além de ter trabalhado no desenvolvimento de projetos de BI nos setores de vendas e marketing.
 
 ###
-👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem Python, SQL, Excel, criação de Data Warehouses, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI, Tableau ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
+👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando a linguagem Python, SQL, Excel, uso da ferramenta Pentaho para elaboração de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
 
 🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
