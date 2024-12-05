@@ -31,48 +31,6 @@
 <a href = "mailto:euphilippeizidorio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?l=pt_BR&phone=557998207392" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-## Meus projetos na área de Business Intelligence e Ciências de Dados 📈
-
-### Python:
-
-<left>
-<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/3a0be200-3882-4547-ab9c-54e6897c36c4" width="400"/>
-</left>
-
-###
-
-🥇 [Análise De Resultados E Criação De Métricas Utilizando Python](https://github.com/Philippeizidorio/AnaliseVarejo)
-
-🥈 [Prevendo Preços De Apartamentos Com Machine Learning](https://github.com/Philippeizidorio/MLPredicaodepreco)
-
-🥉 [Prevendo Vendas Em Campanhas De Publicidade Online](https://github.com/Philippeizidorio/PredicaoDeVendasPub)
-
-### Dashboards - Power BI | Metabase:
-
- <left>
-<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/5117127f-4782-4f97-8fee-e3a779dc4bb4" width="600"/>
-</left>
-
-###
-
-🥇 [Dashboard Para Gerenciamento Financeiro No Power BI](https://github.com/Philippeizidorio/Dashfinanceirohotel)
-
-🥈 [Análise Da Aquisição De Clientes No Metabase](https://github.com/Philippeizidorio/Analiseclientes_Edtech)
-
-### SQL:
-
-<left>
-<img src="https://github.com/Philippeizidorio/philippeizidorio/assets/145637595/0fcec9ff-d274-496b-84ac-80a8cab37c14" width="300"/>
-</left>
-
-###
-
-🥇 [Construção De Um Banco De Dados Do Zero No SQL Server](https://github.com/Philippeizidorio/Create_DBSQLSERVER)
-
-🥈 [Criando Um Data Warehouse No SQL Server Utilizando Pentaho](https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola)
-
-🥉 [Explorando Dados Do Setor De Vendas Usando SQL](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL)
-
 ###
 
 <h2 align="left">📊 Github Stats</h2> 
