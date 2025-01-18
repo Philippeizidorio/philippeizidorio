@@ -5,7 +5,7 @@
 🧑🏻‍🎓 Sou graduando em Ciência De Dados, faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
-👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando Python, SQL, Excel, uso da ferramenta Pentaho para desenvolver processos de ETL, plataformas de Business Intelligence(BI) como PowerBI ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
+👨🏻‍💻 Tenho experiência em analises diagnósticas e preditivas, consultas complexas de dados utilizando Python, SQL, Excel, desenvolvimento de processos de ETL, plataformas de Business Intelligence(BI) como PowerBI ou Metabase para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
 
 🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
