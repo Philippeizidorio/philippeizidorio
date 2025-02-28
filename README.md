@@ -2,7 +2,7 @@
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Sou um Cientista De Dados faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
+🧑🏻‍🎓 Cientista De Dados faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
 👨🏻‍💻 Tenho experiência realizando consultas complexas, manipulação, análise diagnóstica e preditiva de dados utilizando Python, Pyspark, Machine Learning, SQL e NoSQL.Além disso, atuo no desenvolvimento de processos de ETL bem como trabalho com plataformas de Business Intelligence(BI), como PowerBI e Metabase, para criar visualizações personalizadas e impactantes, com o objetivo de comunicar descobertas de forma clara e acessível.
