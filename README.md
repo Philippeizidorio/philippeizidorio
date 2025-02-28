@@ -5,7 +5,7 @@
 🧑🏻‍🎓 Sou um Cientista De Dados faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
-👨🏻‍💻 Tenho experiência realizando consultas complexas, manipulação, análise diagnóstica e preditiva de dados utilizando Python, Machine Learning, SQL e Excel.Além disso, atuo no desenvolvimento de processos de ETL bem como trabalho com plataformas de Business Intelligence(BI), como PowerBI e Metabase, para criar visualizações personalizadas e impactantes, com o objetivo de comunicar descobertas de forma clara e acessível.
+👨🏻‍💻 Tenho experiência realizando consultas complexas, manipulação, análise diagnóstica e preditiva de dados utilizando Python, Pyspark, Machine Learning, SQL e NoSQL.Além disso, atuo no desenvolvimento de processos de ETL bem como trabalho com plataformas de Business Intelligence(BI), como PowerBI e Metabase, para criar visualizações personalizadas e impactantes, com o objetivo de comunicar descobertas de forma clara e acessível.
 
 🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
