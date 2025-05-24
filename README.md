@@ -27,8 +27,7 @@
 
 <h2 align="left">🌐 Let's Connect </h2>
 
-[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=557999011696&text=Ol%C3%A1%2C%20D%C3%A9bora%21%20Quero%20saber%20mais%20sobre%20os%20servi%C3%A7os%20de%20automa%C3%A7%C3%A3o%20com%20ia%20do%20Philippe%20Izid%C3%B3rio.)
-<img src="https://github.com/user-attachments/assets/2a9cfbc4-52ae-4a86-86bb-f2c690ba4301">
+[![WhatsAppDEBORA](https://github.com/user-attachments/assets/2a9cfbc4-52ae-4a86-86bb-f2c690ba4301)](https://api.whatsapp.com/send?phone=557999011696&text=Ol%C3%A1%2C%20D%C3%A9bora%21%20Quero%20saber%20mais%20sobre%20os%20servi%C3%A7os%20de%20automa%C3%A7%C3%A3o%20com%20ia%20do%20Philippe%20Izid%C3%B3rio.)
 </a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippeizidorio) 
 <a href = "mailto:euphilippeizidorio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
