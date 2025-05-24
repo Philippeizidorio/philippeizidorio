@@ -2,7 +2,7 @@
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Cientista De Dados e Gestor De Automações Com IA faminto por conhecimento e apaixonado por gerar produtos capazes de impactar negócios de maneira exponencial.
+🧑🏻‍🎓 Cientista De Dados e Gestor De Automação Com IA faminto por conhecimento e apaixonado por gerar produtos capazes de impactar negócios de maneira exponencial.
 
 ###
 👨🏻‍💻 Tenho experiência desenvolvendo workflows inteligentes, realizando consultas complexas, manipulação, análise diagnóstica e preditiva de dados utilizando Python, N8N, Pyspark, Machine Learning e SQL.Além disso, atuo no desenvolvimento de processos de ETL bem como trabalho com plataformas de Business Intelligence(BI), como PowerBI e Metabase, para criar visualizações personalizadas e impactantes, com o objetivo de comunicar descobertas de forma clara e acessível.
